@@ -1,3 +1,9 @@
+// The latest version of this code can be found at:
+//
+// https://github.com/hoberman/Soundgin_voice_example
+//
+//
+
 #include "Soundgin.h"
 
 Soundgin Soundgin;        // create a Soundgin object.

@@ -1,4 +1,6 @@
-#include <SoftwareSerial.h>
+//
+// Based on original code from Scott Savage/Savage Innovations, LLC.
+//
 
 #ifndef Soundgin_H
   #define Soundgin_H

@@ -1,3 +1,7 @@
+//
+// Based on original code from Scott Savage/Savage Innovations, LLC.
+//
+
 #include "Soundgin.h"
 
 #include <SoftwareSerial.h>

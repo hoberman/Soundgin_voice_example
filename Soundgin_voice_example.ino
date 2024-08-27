@@ -8,8 +8,8 @@
 
 Soundgin Soundgin;        // create a Soundgin object.
 
-const int Pin_TX = A1;    // Soundgin's transmit line TO Arduino
-const int Pin_RX = A2;    // Soundgin's receive line FROM Arduino
+const int Pin_TX = A1;    // Soundgin's serial transmit line TO Arduino
+const int Pin_RX = A2;    // Soundgin's serial receive line FROM Arduino
 
 const int Pin_Reset = 13; // Reset. (Active LOW) HIGH = normal operation.
 const int Pin_Demo = 11;  // Demo select. (Active LOW) HIGH = normal operation.
